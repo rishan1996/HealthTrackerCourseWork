@@ -113,6 +113,7 @@ public class Registration extends JFrame{
         p_password.add(tf_password);
 
         p_passConfirm.add(l_passConfirm);
+        p_passConfirm.add(tf_passConfirm);
 
 
 
